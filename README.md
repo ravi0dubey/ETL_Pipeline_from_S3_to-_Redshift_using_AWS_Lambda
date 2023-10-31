@@ -4,4 +4,4 @@
 
 # Video link of configuration setup
 
-https://youtu.be/yhY1nMPmtoM
+https://youtu.be/1ILWxxg3bbE
