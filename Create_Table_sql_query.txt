@@ -1,0 +1,8 @@
+CREATE TABLE advertising1(
+TV float NOT NULL,
+Radio float NOT NULL,
+Newspaper float NOT NULL,
+Sales float NOT NULL
+);
+
+SELECT * FROM ADVERTISING1;
